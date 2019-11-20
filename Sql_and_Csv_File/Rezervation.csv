@@ -1,0 +1,7 @@
+"rezervation_id";"rez_name";"day";"start";"end";"rez_location";"organizer";"event_type"
+1;"Drift";"01/01/2020";12;18;"ıstanbulpark";"Ali Yilmaz";"outdoor"
+2;"Sila_Concert";"13/01/2019";2;5;"iksv";"Mehmet Yilmaz";"concert"
+3;"GS-BJK";"01/02/2020";19;22;"vodofonearea";"Fatih Terim";"football"
+4;"MotoRace";"12/12/2020";2;3;"ıstanbulpark";"Kenan Bey";"outdoor"
+5;"Bir Delinin Hatira Defteri";"12/10/2021";12;14;"bkm";"Onur Yilmaz";"theatre"
+6;"YGA";"10/10/2021";12;19;"zorlu";"Ali Zorlu";"meeting"
